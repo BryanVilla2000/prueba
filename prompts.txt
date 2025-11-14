@@ -1,0 +1,1 @@
+Necesito un programa en Scala que resuelva este problema: existe una lista de calificaciones y antes de registrarlas se deben transformar según diferentes políticas (redondear, bonificar, penalizar). Debo implementar funciones de orden superior que reciba la lista y una función de transformación, usando map.
